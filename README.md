@@ -10,9 +10,7 @@
 
 
 <!-- ABOUT ME -->
-<table>
-<tr>
-<td valign="top" width="60%">
+
 
 ### 👋 About Me
 
@@ -34,6 +32,9 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 <img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal-kumar-bg-removed.png" width="260" alt="Kanwal Kumar"/>
 
+<table>
+<tr>
+<td valign="top" width="60%">
 </td>
 </tr>
 </table>
