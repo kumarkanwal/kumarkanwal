@@ -96,7 +96,7 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkanwal&layout=compact&theme=dark&bg_color=020408&title_color=00FFF5&text_color=8AB4C8&border_color=00FFF530&langs_count=8" />
+[<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkanwal&layout=compact&theme=dark&bg_color=020408&title_color=00FFF5&text_color=8AB4C8&border_color=00FFF530&langs_count=8" />](https://github-readme-stats-kanwalkumars-projects.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 </div>
 
