@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Kanwal+Kumar+%F0%9F%91%8B;Agentic+AI+Developer+%F0%9F%A4%96;AI+Automation+Architect+%E2%9A%A1;n8n+%7C+LangChain+%7C+OpenAI+Expert+%F0%9F%A7%A0;Building+AI+that+works+while+you+sleep+%F0%9F%92%A4)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vishal+Sahil;AI+Automation+Specialist;AI+Agents+Builder;n8n+%7C+LangChain+%7C+OpenAI+API;Building+the+Future+with+AI+%F0%9F%A4%96)
-</div>
 
 ---
 
