@@ -131,9 +131,9 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 <!-- PROFILE VIEWS & TROPHIES — FIX 3: changed darkhub to dark_hub (correct name) -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFF5&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFE1&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarkanwal&theme=dark_hub&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
