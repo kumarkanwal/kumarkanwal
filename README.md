@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-Hey! I'm **Kanwal Kumar (AI)** — an Agentic AI Developer from 🇵🇰 Karachi, Pakistan.
+Hey! I'm **Kanwal Kumar (AI)** — an Agentic AI & Automation Developer.
 
 I help startups & SMBs **automate their repetitive operations** and build **24/7 AI systems** that qualify leads, book meetings, and scale their business — without increasing overhead.
 
