@@ -19,9 +19,9 @@
 Hey! I'm **Kanwal Kumar (AI)** — an Agentic AI Developer from 🇵🇰 Karachi, Pakistan.
 
 I help startups & SMBs **automate their repetitive operations** and build **24/7 AI systems** that qualify leads, book meetings, and scale their business — without increasing overhead.
-
+---
 > 💬 *"I didn't start in AI because of a trend — I started because I was tired of manual tasks. I built the systems to reclaim my life, then started building them for others."*
-
+---
 - 🔭 Currently building **AI Agents & Automation Systems** at [Innoventix360](http://www.innoventix360.com/)
 - 🏆 Creating **Customer Care & Lead Generation** Products
 - ⚡ Saved clients **20+ hours/week** with custom AI agents
