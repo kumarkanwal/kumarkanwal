@@ -10,33 +10,89 @@
 
 
 <!-- ABOUT ME -->
-<table>
-<tr>
-<td valign="top" width="60%">
+<!-- ABOUT ME GLASS CARD -->
+<div align="center">
 
-### 👋 About Me
+<svg width="800" height="380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A1520;stop-opacity:0.95"/>
+      <stop offset="100%" style="stop-color:#0F2535;stop-opacity:0.90"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
 
-Hey! I'm **Kanwal Kumar (AI)** — an Agentic AI Developer from 🇵🇰 Karachi, Pakistan.
+  <!-- Glass background -->
+  <rect x="2" y="2" width="796" height="376" rx="20" ry="20"
+    fill="url(#glass)" stroke="#00FFF5" stroke-width="1.5" opacity="0.95"/>
 
-I help startups & SMBs **automate their repetitive operations** and build **24/7 AI systems** that qualify leads, book meetings, and scale their business — without increasing overhead.
----
-> 💬 *"I didn't start in AI because of a trend — I started because I was tired of manual tasks. I built the systems to reclaim my life, then started building them for others."*
----
-- 🔭 Currently building **AI Agents & Automation Systems** at [Innoventix360](http://www.innoventix360.com/)
-- 🏆 Creating **Customer Care & Lead Generation** Products
-- ⚡ Saved clients **20+ hours/week** with custom AI agents
-- 🌐 Portfolio: [kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)
-- 📬 Email: [kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com)
-- 💼 DM **'AUDIT'** on LinkedIn for a free workflow breakdown!
+  <!-- Inner border glow -->
+  <rect x="8" y="8" width="784" height="364" rx="16" ry="16"
+    fill="none" stroke="#00FFF5" stroke-width="0.5" opacity="0.3"/>
 
-</td>
-<td valign="top" width="40%" align="center">
+  <!-- Title -->
+  <text x="40" y="50" font-family="monospace" font-size="20"
+    fill="#00FFF5" font-weight="bold">👋 About Me</text>
 
-<img align="right" alt="AI Automation GIF" width="320" src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" />
+  <!-- Divider -->
+  <line x1="40" y1="65" x2="760" y2="65" stroke="#00FFF5" stroke-width="0.5" opacity="0.4"/>
 
-</td>
-</tr>
-</table>
+  <!-- Bio text -->
+  <text x="40" y="95" font-family="monospace" font-size="13" fill="#FFFFFF">
+    Hey! I'm Kanwal Kumar (AI) — an Agentic AI Developer from 🇵🇰 Karachi, Pakistan.
+  </text>
+  <text x="40" y="118" font-family="monospace" font-size="12" fill="#8AB4C8">
+    I help startups &amp; SMBs automate repetitive operations and build 24/7 AI systems
+  </text>
+  <text x="40" y="138" font-family="monospace" font-size="12" fill="#8AB4C8">
+    that qualify leads, book meetings, and scale — without increasing overhead.
+  </text>
+
+  <!-- Quote -->
+  <rect x="40" y="152" width="4" height="50" fill="#00FFF5" rx="2"/>
+  <text x="55" y="168" font-family="monospace" font-size="11" fill="#8AB4C8" font-style="italic">
+    "I didn't start in AI because of a trend — I started because I was tired
+  </text>
+  <text x="55" y="185" font-family="monospace" font-size="11" fill="#8AB4C8" font-style="italic">
+    of manual tasks. I built systems to reclaim my life, then for others."
+  </text>
+
+  <!-- Bullet points -->
+  <text x="40" y="225" font-family="monospace" font-size="12" fill="#00FFF5">▸</text>
+  <text x="58" y="225" font-family="monospace" font-size="12" fill="#FFFFFF">
+    Building <tspan font-weight="bold" fill="#00FFF5">AI Agents &amp; Automation Systems</tspan> at Innoventix360
+  </text>
+
+  <text x="40" y="250" font-family="monospace" font-size="12" fill="#00FFF5">▸</text>
+  <text x="58" y="250" font-family="monospace" font-size="12" fill="#FFFFFF">
+    Creating <tspan font-weight="bold" fill="#00FFF5">Customer Care &amp; Lead Generation</tspan> Products
+  </text>
+
+  <text x="40" y="275" font-family="monospace" font-size="12" fill="#00FFF5">▸</text>
+  <text x="58" y="275" font-family="monospace" font-size="12" fill="#FFFFFF">
+    Saved clients <tspan font-weight="bold" fill="#00FFF5">20+ hours/week</tspan> with custom AI agents
+  </text>
+
+  <text x="40" y="300" font-family="monospace" font-size="12" fill="#00FFF5">▸</text>
+  <text x="58" y="300" font-family="monospace" font-size="12" fill="#FFFFFF">
+    Portfolio: <tspan fill="#00FFF5">kanwalkumar.innoventix360.com</tspan>
+  </text>
+
+  <text x="40" y="325" font-family="monospace" font-size="12" fill="#00FFF5">▸</text>
+  <text x="58" y="325" font-family="monospace" font-size="12" fill="#FFFFFF">
+    Email: <tspan fill="#00FFF5">kanwalkumarofficial@gmail.com</tspan>
+  </text>
+
+  <text x="40" y="355" font-family="monospace" font-size="12" fill="#FF6B35">▸</text>
+  <text x="58" y="355" font-family="monospace" font-size="12" fill="#FFFFFF">
+    DM <tspan font-weight="bold" fill="#FF6B35">'AUDIT'</tspan> on LinkedIn for a free workflow breakdown!
+  </text>
+
+</svg>
+
+</div>
 <!-- SOCIAL BADGES -->
 <div align="center">
 
