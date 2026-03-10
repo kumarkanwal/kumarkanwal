@@ -131,7 +131,7 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 <!-- PROFILE VIEWS & TROPHIES — FIX 3: changed darkhub to dark_hub (correct name) -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFE1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=45FFE1&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
