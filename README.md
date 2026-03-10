@@ -2,11 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Kanwal+Kumar+%F0%9F%91%8B;Agentic+AI+Developer+%F0%9F%A4%96;AI+Automation+Architect+%E2%9A%A1;n8n+%7C+LangChain+%7C+OpenAI+Expert+%F0%9F%A7%A0;Building+AI+that+works+automatically+%F0%9F%92%A4)](https://git.io/typing-svg)
 
----
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020408,40:060D14,100:0A1F2E&height=200&section=header&text=Kanwal%20Kumar%20(AI)&fontSize=42&fontColor=00FFF5&animation=twinkling&fontAlignY=45&desc=AI%20Automation%20Specialist%20%7C%20Agent%20Builder%20%7C%20Workflow%20Expert&descAlignY=65&descSize=17&descColor=FFFFFF&stroke=00FFF5&strokeWidth=2" width="100%"/>
-
-</div>
 
 <!-- ABOUT ME -->
 <table>
@@ -35,13 +33,15 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 </tr>
 </table>
 
+---
+
 <!-- SOCIAL BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanwal_Kumar_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanwal-kumar-ai/)
 [![Twitter](https://img.shields.io/badge/X-@Kanwalkumar01-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kanwalkumar01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-innoventix360.com-00FFF5?style=for-the-badge&logo=vercel&logoColor=black)](https://kanwalkumar.innoventix360.com)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanwalkumarqalandri8272@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanwalkumarofficial@gmail.com)
 
 </div>
 
@@ -82,25 +82,6 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 ---
 
-<!-- GITHUB STATS — FIX 1: using your own deployment URL -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-kanwalkumars-projects.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarkanwal&theme=dark&background=020408&ring=00FFF5&fire=00FFF5&currStreakLabel=00FFF5&sideLabels=8AB4C8&dates=8AB4C8&border=00FFF530" />
-
-</div>
-
-<!-- FIX 2: top langs using own URL, removed wrong link wrapper -->
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-kanwalkumars-projects.vercel.app/api/top-langs/?username=kumarkanwal&layout=compact&theme=dark&bg_color=020408&title_color=00FFF5&text_color=8AB4C8&border_color=00FFF530&langs_count=8" />
-
-</div>
-
----
-
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
@@ -128,12 +109,10 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 ---
 
-<!-- PROFILE VIEWS & TROPHIES — FIX 3: changed darkhub to dark_hub (correct name) -->
+<!-- PROFILE VIEWS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=45FFE1&style=for-the-badge&label=PROFILE+VIEWS)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFF5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -152,6 +131,6 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 ---
 
-⭐ *If any of my projects helped you, consider giving them a star!* ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:060D14,100:00FFF5&height=120&section=footer" width="100%"/>
 
 </div>
