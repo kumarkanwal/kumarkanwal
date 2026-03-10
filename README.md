@@ -79,7 +79,7 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarkanwal&show_icons=true&theme=dark&bg_color=020408&title_color=00FFF5&icon_color=00FFF5&text_color=8AB4C8&border_color=00FFF530&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarkanwal&theme=dark&background=020408&ring=00FFF5&fire=00FFF5&currStreakLabel=00FFF5&sideLabels=8AB4C8&dates=8AB4C8&border=00FFF530" />
 
 </div>
