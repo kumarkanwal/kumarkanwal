@@ -7,7 +7,7 @@
 ---
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:003333,100:00FFF5&height=200&section=header&text=Kanwal%20Kumar%20(AI)&fontSize=42&fontColor=00FFF5&animation=twinkling&fontAlignY=45&desc=AI%20Automation%20Specialist%20%7C%20Agent%20Builder%20%7C%20Workflow%20Expert&descAlignY=65&descSize=17&descColor=ffffff&stroke=00FFF5&strokeWidth=1" width="100%"/>
 
-
+---
 <!-- ABOUT ME -->
 <img align="right" alt="AI Automation GIF" width="320" src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" />
 
