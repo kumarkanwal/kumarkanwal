@@ -9,23 +9,34 @@
 <!-- ABOUT ME -->
 <img align="right" alt="AI Automation GIF" width="320" src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" />
 
+<!-- ABOUT ME -->
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 👋 About Me
 
-Hey! I'm **Kanwal Kumar(AI)** — an Agentic AI Developer.
+Hey! I'm **Kanwal Kumar (AI)** — an Agentic AI Developer from 🇵🇰 Karachi, Pakistan.
 
 I help startups & SMBs **automate their repetitive operations** and build **24/7 AI systems** that qualify leads, book meetings, and scale their business — without increasing overhead.
 
 > 💬 *"I didn't start in AI because of a trend — I started because I was tired of manual tasks. I built the systems to reclaim my life, then started building them for others."*
 
-- 🔭 Currently building **AI Agents & Automation Systems** at [Innoventix360]((http://www.innoventix360.com/))
-- 🏆 Creating Customer care and lead Generation Products
+- 🔭 Currently building **AI Agents & Automation Systems** at [Innoventix360](http://www.innoventix360.com/)
+- 🏆 Creating **Customer Care & Lead Generation** Products
 - ⚡ Saved clients **20+ hours/week** with custom AI agents
-- 🌐 Portfolio: **[kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)**
-- 📬 Reach me: **kanwalkumarofficial@gmail.com**
-- 💼 DM me **'To automate your Business'** DM me on linkedin or Email me!
+- 🌐 Portfolio: [kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)
+- 📬 Email: [kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com)
+- 💼 DM **'AUDIT'** on LinkedIn for a free workflow breakdown!
 
----
+</td>
+<td valign="top" width="40%" align="center">
 
+<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal-kumar-bg-removed.png" width="260" alt="Kanwal Kumar"/>
+
+</td>
+</tr>
+</table>
 <!-- SOCIAL BADGES -->
 <div align="center">
 
