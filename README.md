@@ -23,7 +23,7 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 - ⚡ Saved clients **20+ hours/week** with custom AI agents
 - 🌐 Portfolio: **[kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)**
 - 📬 Reach me: **kanwalkumarqalandri8272@gmail.com**
-- 💼 DM me **'To automate your business'** DM me on linkedin or Email me!
+- 💼 DM me **'To automate your Business'** DM me on linkedin or Email me!
 
 ---
 
