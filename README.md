@@ -90,27 +90,6 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 </div>
 
----
-
-<!-- WAKATIME STATS -->
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-> 🔧 **Set up Wakatime:** Go to [wakatime.com](https://wakatime.com), connect your GitHub,
-> then replace this block with your Wakatime embed once it starts tracking.
->
-> Your weekly stats will auto-display here after setup!
-
-**Example of what it will look like:**
-```text
-Python       8 hrs 32 mins  ████████████░░░░  52%
-n8n (JSON)   4 hrs 10 mins  ██████░░░░░░░░░░  25%
-JavaScript   2 hrs 05 mins  ███░░░░░░░░░░░░░  13%
-TypeScript   1 hr  40 mins  ██░░░░░░░░░░░░░░  10%
-```
-<!--END_SECTION:waka-->
-
----
 
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
