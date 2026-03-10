@@ -88,7 +88,8 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-kanwalkumars-projects.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarkanwal&theme=dark&background=020408&ring=00FFF5&fire=00FFF5&currStreakLabel=00FFF5&sideLabels=8AB4C8&dates=8AB4C8&border=00FFF530" />
+
+<img width="49%" src="https://github-readme-stats-kanwalkumars-projects.vercel.app/api/top-langs/?username=kumarkanwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -133,7 +134,8 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFF5&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarkanwal&theme=dark_hub&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumarkanwal&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
