@@ -8,7 +8,7 @@
 ---
 
 <!-- ABOUT ME -->
-<img align="right" alt="AI Automation GIF" width="320" src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal.png" />
+<img align="right" alt="AI Automation GIF" width="320" src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" />
 
 ### 👋 About Me
 
