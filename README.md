@@ -19,12 +19,11 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 > 💬 *"I didn't start in AI because of a trend — I started because I was tired of manual tasks. I built the systems to reclaim my life, then started building them for others."*
 
 - 🔭 Currently building **AI Agents & Automation Systems** at [Innoventix360]((http://www.innoventix360.com/))
-- 🎓 Studying **B.S. Computer Science** at MITE (2024–2028)
+- 🏆 Creating Customer care and lead Generation Products
 - ⚡ Saved clients **20+ hours/week** with custom AI agents
-- 🏆 **3rd Prize** — Geekathon 2025, MITE University
 - 🌐 Portfolio: **[kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)**
 - 📬 Reach me: **kanwalkumarqalandri8272@gmail.com**
-- 💼 DM me **'AUDIT'** for a free 15-min workflow breakdown!
+- 💼 DM me **'To automate your business'** DM me on linkedin or Email me!
 
 ---
 
