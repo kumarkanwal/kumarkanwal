@@ -1,16 +1,14 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Kanwal+Kumar+%F0%9F%91%8B;Agentic+AI+Developer+%F0%9F%A4%96;AI+Automation+Architect+%E2%9A%A1;n8n+%7C+LangChain+%7C+OpenAI+Expert+%F0%9F%A7%A0;Building+AI+that+works+automaticly+%F0%9F%92%A4)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Kanwal+Kumar+%F0%9F%91%8B;Agentic+AI+Developer+%F0%9F%A4%96;AI+Automation+Architect+%E2%9A%A1;n8n+%7C+LangChain+%7C+OpenAI+Expert+%F0%9F%A7%A0;Building+AI+that+works+automatically+%F0%9F%92%A4)](https://git.io/typing-svg)
 
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020408,40:060D14,100:0A1F2E&height=200&section=header&text=Kanwal%20Kumar%20(AI)&fontSize=42&fontColor=00FFF5&animation=twinkling&fontAlignY=45&desc=AI%20Automation%20Specialist%20%7C%20Agent%20Builder%20%7C%20Workflow%20Expert&descAlignY=65&descSize=17&descColor=FFFFFF&stroke=00FFF5&strokeWidth=2" width="100%"/>
+
+</div>
+
 <!-- ABOUT ME -->
-
-
-<!-- ABOUT ME -->
-
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -31,12 +29,12 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" width="350" alt="Kanwal Kumar"/>
-
+<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal-kumar-bg-removed.png" width="350" alt="Kanwal Kumar"/>
 
 </td>
 </tr>
 </table>
+
 <!-- SOCIAL BADGES -->
 <div align="center">
 
@@ -84,22 +82,24 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS — FIX 1: using your own deployment URL -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-kanwalkumars-projects.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarkanwal&theme=dark&background=020408&ring=00FFF5&fire=00FFF5&currStreakLabel=00FFF5&sideLabels=8AB4C8&dates=8AB4C8&border=00FFF530" />
 
 </div>
 
+<!-- FIX 2: top langs using own URL, removed wrong link wrapper -->
 <div align="center">
 
-[<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkanwal&layout=compact&theme=dark&bg_color=020408&title_color=00FFF5&text_color=8AB4C8&border_color=00FFF530&langs_count=8" />](https://github-readme-stats-kanwalkumars-projects.vercel.app/api?username=kumarkanwal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<img width="49%" src="https://github-readme-stats-kanwalkumars-projects.vercel.app/api/top-langs/?username=kumarkanwal&layout=compact&theme=dark&bg_color=020408&title_color=00FFF5&text_color=8AB4C8&border_color=00FFF530&langs_count=8" />
 
 </div>
 
+---
 
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
@@ -128,12 +128,12 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 
 ---
 
-<!-- PROFILE VIEWS & TROPHIES -->
+<!-- PROFILE VIEWS & TROPHIES — FIX 3: changed darkhub to dark_hub (correct name) -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFF5&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarkanwal&theme=darkhub&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumarkanwal&theme=dark_hub&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
