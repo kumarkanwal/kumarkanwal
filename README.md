@@ -17,7 +17,7 @@ Hey! I'm **Kanwal Kumar (AI)** an Agentic AI & Automation Developer.
 
 I help startups & SMBs **automate their repetitive operations** and build **24/7 AI systems** that qualify leads, book meetings, and scale their business — without increasing overhead.
 
-- 🔭 Currently building **AI Agents & Automation Systems** at [Innoventix360](http://www.innoventix360.com/)
+- 🔭 Currently building **AI Agents & Automation Systems** 
 - 🏆 Creating **Customer Care & Lead Generation** Products
 - ⚡ Saved clients **20+ hours/week** with custom AI agents
 - 🌐 Portfolio: [kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)
