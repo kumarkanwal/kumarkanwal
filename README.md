@@ -4,7 +4,7 @@
 
 # Kanwal Kumar
 
-**AI and automation engineer.** Karachi, Pakistan.
+**AI and automation engineer.** 
 
 I build AI agents, automation systems and web applications, deploy them, and
 maintain them after launch. Everything listed below is running in production.
