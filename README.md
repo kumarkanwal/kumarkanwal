@@ -20,7 +20,7 @@ I help startups & SMBs **automate their repetitive operations** and build **24/7
 - 🔭 Currently building **AI Agents & Automation Systems** 
 - 🏆 Creating **Customer Care & Lead Generation** Products
 - ⚡ Saved clients **20+ hours/week** with custom AI agents
-- 🌐 Portfolio: [kanwalkumar.innoventix360.com](https://kanwalkumar.innoventix360.com)
+- 🌐 Portfolio: [kanwalkumar.innoventix360.com](https://www.kanwalkumar.com/)
 - 📬 Email: [kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com)
 - 💼 DM **'AUDIT'** on LinkedIn for a free workflow breakdown!
 
