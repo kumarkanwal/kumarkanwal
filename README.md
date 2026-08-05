@@ -127,4 +127,4 @@ ongoing support.
 
 Email [kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com), or
 ask the assistant at [kanwalkumar.com](https://kanwalkumar.com) — it answers from
-my case studies and will tell you what I am weakest at.
+my case studies and Projects.
