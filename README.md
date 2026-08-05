@@ -1,136 +1,90 @@
-<div align="center">
+# Kanwal Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Kanwal+Kumar+%F0%9F%91%8B;Agentic+AI+Developer+%F0%9F%A4%96;AI+Automation+Architect+%E2%9A%A1;n8n+%7C+LangChain+%7C+OpenAI+Expert+%F0%9F%A7%A0;Building+AI+that+works+automatically+%F0%9F%92%A4)](https://git.io/typing-svg)
+AI and automation engineer. Karachi, Pakistan.
 
-</div>
+I build AI agents, automation systems and web applications, deploy them, and
+maintain them after launch. Everything listed below is running in production.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020408,40:060D14,100:0A1F2E&height=200&section=header&text=Kanwal%20Kumar%20(AI)&fontSize=42&fontColor=00FFF5&animation=twinkling&fontAlignY=45&desc=AI%20Automation%20Specialist%20%7C%20Agent%20Builder%20%7C%20Workflow%20Expert&descAlignY=65&descSize=17&descColor=FFFFFF&stroke=00FFF5&strokeWidth=2" width="100%"/>
-
-<!-- ABOUT ME -->
-<table>
-<tr>
-<td valign="top" width="60%">
-
-### 👋 About Me
-
-Hey! I'm **Kanwal Kumar (AI)** an Agentic AI & Automation Developer.
-
-I help startups & SMBs **automate their repetitive operations** and build **24/7 AI systems** that qualify leads, book meetings, and scale their business — without increasing overhead.
-
-- 🔭 Currently building **AI Agents & Automation Systems** 
-- 🏆 Creating **Customer Care & Lead Generation** Products
-- ⚡ Saved clients **20+ hours/week** with custom AI agents
-- 🌐 Portfolio: [kanwalkumar.com](https://www.kanwalkumar.com/)
-- 📬 Email: [kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com)
-- 💼 DM **'AUDIT'** on LinkedIn for a free workflow breakdown!
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" width="350" alt="Kanwal Kumar"/>
-
-</td>
-</tr>
-</table>
+[kanwalkumar.com](https://kanwalkumar.com) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/kanwal-kumar-ai/) &nbsp;·&nbsp;
+[kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com)
 
 ---
 
-<!-- SOCIAL BADGES -->
-<div align="center">
+## Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanwal_Kumar_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanwal-kumar-ai/)
-[![Twitter](https://img.shields.io/badge/X-@Kanwalkumar01-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kanwalkumar01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-innoventix360.com-00FFF5?style=for-the-badge&logo=vercel&logoColor=black)](https://kanwalkumar.innoventix360.com)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanwalkumarofficial@gmail.com)
-
-</div>
+Open to full-time and contract roles. Working hours 9:00 AM to 5:00 PM ET, with
+full overlap on the UK and US working day. Remote, open to relocation.
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack & Tools
+## Selected work
 
-**🤖 AI & Agentic Frameworks**
+**[Portfolio RAG assistant](https://github.com/kumarkanwal/kanwal-kumar-ai-portfolio-rag-aiagent)**
+A retrieval-augmented assistant that answers questions about my work from my own
+documents. Four model providers in an automatic fallback chain, free tiers
+first. Local embeddings, so retrieval has no API dependency. Three layers of
+rate limiting checked before any model call. Live at
+[kanwalkumar.com](https://kanwalkumar.com).
+`Python` `FastAPI` `LangChain` `Chroma` `Docker`
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-00FFF5?style=for-the-badge&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+**Fast Track Supply**
+Wholesale catalogue site with a self-serve admin panel, two-way enquiry flow and
+a grounded AI assistant. Built and shipped in seven days. The client's first
+online presence. Live at
+[fasttracksupply.com.au](https://fasttracksupply.com.au/).
+`Next.js` `Node.js` `OpenAI` `Vercel` `Cloudflare`
 
-**⚙️ Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**🔗 Integrations & Tools**
-
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**WordPress taxi booking plugin**
+End-to-end booking, distance-based fare calculation and payment handling,
+replacing a rented SaaS the operator could not configure. Cut a recurring
+subscription to zero and returned ownership of the booking data. Live at
+[quicktaxiamsterdam.nl](https://quicktaxiamsterdam.nl/).
+`PHP` `WordPress` `MySQL` `Google Maps API` `Mollie`
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Stack
 
-<div align="center">
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, PHP, SQL, Bash |
+| **AI and agents** | LangChain, OpenAI API, Chroma, RAG pipelines, prompt evaluation |
+| **Automation** | n8n, Make, Twilio, WhatsApp Business API, Zapier, webhooks |
+| **Backend** | FastAPI, Node.js, PostgreSQL, MySQL, Redis, Supabase |
+| **Frontend** | React, Next.js, Tailwind CSS, WordPress |
+| **Infrastructure** | Docker, Linux, Nginx, Caddy, AWS, Vercel, Cloudflare |
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 **[WhatsApp AI Agent](https://kanwalkumar.innoventix360.com)** | 24/7 customer care agent with human tone | WhatsApp API, OpenAI, n8n |
-| 🎯 **[Lead Qualification Agent](https://kanwalkumar.innoventix360.com)** | Auto-qualifies & books discovery calls | n8n, OpenAI, CRM |
-| 🧠 **[RAG Knowledge Base](https://github.com/kumarkanwal)** | Chat with your internal docs via AI | LangChain, Pinecone, FastAPI |
-| 👥 **[CrewAI Research Pipeline](https://github.com/kumarkanwal)** | Multi-agent market research system | CrewAI, LangGraph, Python |
-
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-## 🌱 Contribution Activity
-
-<div align="center">
-
-[![Kanwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarkanwal&bg_color=020408&color=00FFF5&line=00FFF5&point=FFFFFF&area=true&hide_border=true)](https://github.com/kumarkanwal)
-
-</div>
+Listed only where I have shipped something to production.
 
 ---
 
-<!-- PROFILE VIEWS -->
-<div align="center">
+## Experience
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarkanwal&color=00FFF5&style=for-the-badge&label=PROFILE+VIEWS)
+**AI Automation Consultant and Developer** — CodePro Software and Web Services
+Nov 2025 – May 2026
+Built AI agents and workflow automations using LLMs, n8n and Make, including a
+multilingual WhatsApp agent supporting 95+ languages. Owned architecture, API
+integrations, deployment and maintenance.
 
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-### 💡 Let's Build Something Extraordinary
-
-*Got repetitive tasks killing your team's time? Let's automate them.*
-
-**DM me 'AUDIT' on [LinkedIn](https://www.linkedin.com/in/kanwal-kumar-ai/) for a FREE 15-min workflow breakdown**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanwal-kumar-ai/)
+**Freelance AI Automation Engineer**
+2021 – present
+Automation systems, web applications and custom integrations for clients in
+Australia, the Netherlands and Pakistan. Scoping through to deployment and
+ongoing support.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:060D14,100:00FFF5&height=120&section=footer" width="100%"/>
+## Education
 
-</div>
+BS Computer Science, Mite University, 2026
+Agentic AI and Automation, Saylani Institute of Technology, 2026
+Full Stack Development, Time Institute, 2023
+
+---
+
+## Contact
+
+Email [kanwalkumarofficial@gmail.com](mailto:kanwalkumarofficial@gmail.com), or
+ask the assistant at [kanwalkumar.com](https://kanwalkumar.com) — it answers from
+my case studies and will tell you what I am weakest at.
