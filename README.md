@@ -44,7 +44,6 @@ inventing a detail.
 [Live](https://kanwalkumar.com/#/#ask) ·
 [Source](https://github.com/kumarkanwal/kanwal-kumar-ai-portfolio-rag-aiagent)
 
-<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/assistant-demo.png" width="640" alt="The assistant answering a question and citing its source"/>
 
 ---
 
