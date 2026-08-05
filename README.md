@@ -19,7 +19,7 @@ overlap on the UK and US working day. Remote, open to relocation.
 </td>
 <td valign="top" width="28%">
 
-<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal-kumar.png" width="220" alt="Kanwal Kumar"/>
+<img src="https://github.com/kumarkanwal/kumarkanwal/raw/main/kanwal kumar bg removed.png" width="220" alt="Kanwal Kumar"/>
 
 </td>
 </tr>
