@@ -9,8 +9,7 @@
 I build AI agents, automation systems and web applications, deploy them, and
 maintain them after launch. Everything listed below is running in production.
 
-Open to full-time and contract roles. Working 9:00 AM to 5:00 PM ET, with full
-overlap on the UK and US working day. Remote, open to relocation.
+Open to full-time and contract roles.On-site, Contract, Remote, open to relocation.
 
 [kanwalkumar.com](https://kanwalkumar.com) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/kanwal-kumar-ai/) &nbsp;·&nbsp;
