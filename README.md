@@ -27,7 +27,7 @@ overlap on the UK and US working day. Remote, open to relocation.
 
 ---
 
-## Selected work
+## Projects
 
 ### Portfolio RAG assistant
 
