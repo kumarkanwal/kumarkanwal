@@ -107,7 +107,7 @@ ongoing support.
 
 ## Education
 
-- BS Computer Science — Mite University, 2026
+- BS Computer Science — Mite University, 2028
 - Agentic AI and Automation — Saylani Institute of Technology, 2026
 - Full Stack Development — Time Institute, 2023
 
